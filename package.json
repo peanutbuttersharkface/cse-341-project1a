@@ -1,0 +1,19 @@
+{
+  "name": "cse-341-project1a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peanutbuttersharkface/cse-341-project1a.git"
+  },
+  "author": "Alicia Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peanutbuttersharkface/cse-341-project1a/issues"
+  },
+  "homepage": "https://github.com/peanutbuttersharkface/cse-341-project1a#readme"
+}
